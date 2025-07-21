@@ -22,6 +22,7 @@ The data was prepared and cleaned using Excel and loaded into Power BI for model
 This project demonstrates my ability to transform raw weather data into an easy-to-use analytical tool. It reflects strong skills in data modeling, visualization, and dashboard storytelling.
 
 ## Power Bi Dashboards
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/066bd295-a8b9-4edf-ae02-222326488b60" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ca4f071d-5a0c-43b7-906e-0da458acd78c" />
 
