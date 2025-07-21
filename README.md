@@ -16,17 +16,15 @@ This dashboard helps users quickly understand climate conditions in each city. I
 The data was prepared and cleaned using Excel and loaded into Power BI for modeling and visualization. DAX was used to create dynamic measures and calculated fields.
 
 ### ⚙️ Tools Used:
-- Power BI(https://github.com/user-attachments/assets/9295a98b-4db9-4334-841c-01003dbe84d5)![Image]
-- Microsoft Excel![download](https://github.com/user-attachments/assets/82fe2e1c-ca76-4267-9819-1449de1c9e64)![download (1)]
+![download](https://github.com/user-attachments/assets/82fe2e1c-ca76-4267-9819-1449de1c9e64)![download (1)](https://github.com/user-attachments/assets/9295a98b-4db9-4334-841c-01003dbe84d5)
 - DAX
 
 This project demonstrates my ability to transform raw weather data into an easy-to-use analytical tool. It reflects strong skills in data modeling, visualization, and dashboard storytelling.
 
 ## Power Bi Dashboards
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2de7a333-8327-45ba-aea1-19e1ae5d
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ca4f071d-5a0c-43b7-906e-0da458acd78c" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/59349b12-5da0-42ae-a5f2-ba80d6b15f03" />
 
-b6de" />
+
